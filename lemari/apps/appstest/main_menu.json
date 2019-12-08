@@ -24,9 +24,9 @@
                 {
 					"audiens_campuran" : false,
 				
-					"admob_delay_inters": 3,
+					"admob_delay_inters": 0,
 					"admob_safety": false,
-					"admob_aktif": true,
+					"admob_aktif": false,
 					"admob_pub_id": "pub-3940256099942544",
 					"admob_appid": "ca-app-pub-3940256099942544~3347511713",
                     "admob_banner": "ca-app-pub-3940256099942544/6300978111",

@@ -6,14 +6,14 @@
 		
 			"data_playlist": [
 				{
-					"pl_judul": "Koplo 2019",
-					"pl_subjudul": "Full Nella Kharisma",
-					"pl_id": "PLmndwJP2qZ1lwF3tOJt4SGPzO8DYXeqnS",
+					"pl_judul": "LIVE STREAMING UPDATES",
+					"pl_subjudul": "Plaza Affanet",
+					"pl_id": "PLf9oIc6Vn6EOL4SGnIserBS9iMpruTh9X",
 					"pl_gambar": "https://i.ytimg.com/vi/ku2KJfj9UDQ/mqdefault.jpg"
 				},
 				{
-					"pl_judul": "Koleksi Pop Indonesia",
-					"pl_subjudul": "Music Pop Official",
+					"pl_judul": "Pop Barat",
+					"pl_subjudul": "Music Pop Bule",
 					"pl_id": "PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj",
 					"pl_gambar": "https://i.ytimg.com/vi/SAWf36cNRPo/mqdefault.jpg"
 				},
@@ -48,16 +48,52 @@
 					"pl_gambar": "https://i.ytimg.com/vi/sSUqRRtyO8k/mqdefault.jpg"
 				},
 				{
-					"pl_judul": "PAK lek",
-					"pl_subjudul": "wagu pak ndul",
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
 					"pl_id": "PL32C989FF7CAD5EF4",
-					"pl_gambar": "https://yt3.ggpht.com/a/AGF-l7_yOUn3Qtwhw8U7cZcOE4Z6cESJbRueQUCHmg=s288-c-k-c0xffffffff-no-rj-mo"
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
+				},
+				{
+					"pl_judul": "Lagu Lawas",
+					"pl_subjudul": "Kenangan Indonesia",
+					"pl_id": "PL32C989FF7CAD5EF4",
+					"pl_gambar": "https://i.ytimg.com/vi/GqtCvrcrc7w/mqdefault.jpg"
 				}
 					],
 			
 			"data_konten": [
 				{
-					"api_key": "AIzaSyAeC01XKc3Qgn4BPn7B6eA3igeODDB1FMI",
+					"api_key": "AIzaSyAEtKaO0khtkt_oNpiWMe_YySEMlX5b39s",
 					"max_result": 10,
 					"visible_threshold": 3
 				}

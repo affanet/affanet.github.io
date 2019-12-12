@@ -1,0 +1,4 @@
+admob_pub_id": pub-3940256099942544
+admob_appid": ca-app-pub-3940256099942544~3347511713
+admob_banner": ca-app-pub-3940256099942544/6300978111
+admob_inters": ca-app-pub-3940256099942544/1033173712

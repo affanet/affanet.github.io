@@ -6,16 +6,16 @@
 			"data_app": [
 				{
 					"force_update_app": false,
-					"force_update_url": "https://affanet.github.io/lemari/apps/appstest/privacypolicebudipray.html",
+					"force_update_url": "https://play.google.com/store/apps/details?id=com.aerobic.workoutgymfitness",
 					"force_update_judul": "Update",
 					"force_update_deskripsi": "Sorry, this application is outdated, please update or replace the application with the new version.",
 					
 					"safety_menu_setelan_aktif": true,
 					
 					"privpol_kawitan_versi": 1,
-					"privpol_kawitan_url": "https://affanet.github.io/lemari/apps/appstest/privacypolicebudipray.html",
+					"privpol_kawitan_url": "https://affanet.github.io/lemari/apps/Aerobic/privacypolicebudipray.html",
 					
-					"pariworo_url" : "https://affanet.github.io/lemari/apps/appstest/pariworo.json"
+					"pariworo_url" : "https://affanet.github.io/lemari/apps/Aerobic/pariworo.json"
 					
 				}
 			],

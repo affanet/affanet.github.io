@@ -13,9 +13,9 @@
 					"safety_menu_setelan_aktif": true,
 					
 					"privpol_kawitan_versi": 1,
-					"privpol_kawitan_url": "https://affanet.github.io/lemari/apps/YOGA/privacypolicebudipray.html",
+					"privpol_kawitan_url": "https://affanet.github.io/lemari/apps/yoga/privacypolicebudipray.html",
 					
-					"pariworo_url" : "https://affanet.github.io/lemari/apps/YOGA/pariworo.json"
+					"pariworo_url" : "https://affanet.github.io/lemari/apps/yoga/pariworo.json"
 					
 				}
 			],

@@ -18,10 +18,10 @@
 					"pl_gambar": "https://i.ytimg.com/vi/pSrgzcVL8wM/mqdefault.jpg"
 				},
 				{
-					"pl_judul": "Movie 	MOD",
-					"pl_subjudul": "Best MOD 18+",
-					"pl_id": "zY07zc2mxsQ&list=PLxeCf7AgM7TfbFWDiNh2_9jz9oOykADOa",
-					"pl_gambar": "https://i.ytimg.com/vi/LDTaWjHFzY4/mqdefault.jpg"
+					"pl_judul": "Movie 	MANDARIN",
+					"pl_subjudul": "Best MONDARIN",
+					"pl_id": "PLLIyUy1QCgf1is8yXLonQMCkd11uHQ7iC",
+					"pl_gambar": "https://i.ytimg.com/vi/pIxAqCtE-Ns/mqdefault.jpg"
 				},
 				{
 					"pl_judul": "Kungfu Movie 4",
@@ -51,7 +51,7 @@
 			
 			"data_konten": [
 				{
-					"api_key": "AIzaSyAEtKaO0khtkt_oNpiWMe_YySEMlX5b39s",
+					"api_key": "AIzaSyDReEYjHZ_IpHBy9gsa5yF07oSkWSYkRsk",
 					"max_result": 10,
 					"visible_threshold": 3
 				}
